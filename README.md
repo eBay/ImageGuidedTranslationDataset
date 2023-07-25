@@ -58,8 +58,8 @@ Then the repo can be cloned using git clone.
 git clone git@github.com:eBay/ImageGuidedTranslationDataset.git 
 ```
 
-## Contact
-For any questions or comments, please contact [ImageGuidedTranslationDataset google groups](https://groups.google.com/a/ebay.com/g/imageguidedtranslation).
+## Issues
+Please use our [issues](https://github.com/eBay/ImageGuidedTranslationDataset/issues) page to ask questions, report issues or submit feature requests.
 
 ## License
 The data is licensed under the [Creative Commons Attribution-NonCommercial license 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
